@@ -1,0 +1,13 @@
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.exe
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.deps.json
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.runtimeconfig.json
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.runtimeconfig.dev.json
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.dll
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\bin\Debug\netcoreapp3.1\Bubble_sorting.pdb
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.csprojAssemblyReference.cache
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.csproj.CoreCompileInputs.cache
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.AssemblyInfoInputs.cache
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.AssemblyInfo.cs
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.dll
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.pdb
+F:\My_Projects\(2) C#_Projects\Bubble_sorting\obj\Debug\netcoreapp3.1\Bubble_sorting.genruntimeconfig.cache
